@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-09-24T11:28:24.305689",
+  "total_trains_analyzed": 5208,
+  "trains_scheduled": 56,
+  "scheduling_efficiency": 0.9333333333333333,
+  "total_delay_hours": 0,
+  "objective_value": 3523.9100000000008,
+  "priority_breakdown": {
+    "high_priority": 12,
+    "medium_priority": 30,
+    "low_priority": 14
+  }
+}
