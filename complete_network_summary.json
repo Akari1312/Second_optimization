@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "total_stations": 8990,
+    "total_connections": 10088,
+    "is_connected": false,
+    "export_timestamp": "2025-09-24T03:00:06.132766"
+  },
+  "station_types": {
+    "local_connected": 399,
+    "isolated": 1396,
+    "scheduled_stop": 6448,
+    "major_hub": 747
+  },
+  "connection_types": {
+    "proximity": 510,
+    "scheduled_route": 7718,
+    "major_route": 1860
+  },
+  "top_hubs": [
+    {
+      "code": "HWH",
+      "name": "HOWRAH JN",
+      "connections": 81
+    },
+    {
+      "code": "DLI",
+      "name": "OLD DELHI",
+      "connections": 54
+    },
+    {
+      "code": "NDLS",
+      "name": "NEW DELHI",
+      "connections": 50
+    },
+    {
+      "code": "SBC",
+      "name": "BANGALORE CITY JN",
+      "connections": 43
+    },
+    {
+      "code": "MAS",
+      "name": "CHENNAI CENTRAL",
+      "connections": 43
+    }
+  ],
+  "zones": {
+    "NWR": 426,
+    "Unknown": 4532,
+    "NER": 264,
+    "SR": 335,
+    "WR": 504,
+    "ER": 263,
+    "SCR": 294,
+    "NR": 590,
+    "CR": 191,
+    "?": 106,
+    "WCR": 172,
+    "NFR": 262,
+    "NCR": 158,
+    "SECR": 144,
+    "SWR": 290,
+    "ECoR": 75,
+    "SER": 109,
+    "ECR": 212,
+    "KR": 63
+  }
+}
